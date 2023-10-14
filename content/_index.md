@@ -81,7 +81,7 @@ sections:
         - title: Algorithm Engineer Intern
           company: ByteDance
           company_url: 'https://www.bytedance.com/en/'
-          company_logo: ByteDance
+          company_logo: bytedance
           location: Kaide Shangpu Business Center, No.99, Jiangwancheng Road, Yangpu District, Shanghai
           date_start: '2023-09-01'
           date_end: '2023-06-28'
@@ -108,7 +108,7 @@ sections:
         - title: Algorithm Engineer Intern
           company: SHANGHAI-FANUC Robotics CO., LTD.
           company_url: 'https://www.shanghai-fanuc.com.cn/'
-          company_logo: SHANGHAI-FANUC
+          company_logo: shanghai-fanuc
           location: NO 1500, Fulian Road, Baoshan District, Shanghai
           date_start: '2021-09-04'
           date_end: '2021-06-30'
