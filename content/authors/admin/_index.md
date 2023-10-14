@@ -27,8 +27,7 @@ bio: My research interests include manipulation, perception and cognition within
 # Interests to show in About widget
 highlights:
   - Artificial Intelligence
-  - Robotics
-    link: https://github.com/LIYunzhe1408
+  - [Robotics](https://github.com/LIYunzhe1408)
 
 # Education to show in About widget
 education:
