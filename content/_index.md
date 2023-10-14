@@ -19,14 +19,30 @@ sections:
           description: 90%
           icon: python
           icon_pack: fab
-        - name: Statistics
+        - name: java
+          description: 60%
+          icon: java
+          icon_pack: fab
+        - name: deep-learning
+          description: 60%
+          icon: deep-learning
+          icon_pack: custom
+        - name: leadership
           description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: leadership
+          icon_pack: custom
+        - name: project management
+          description: 80%
+          icon: project management
+          icon_pack: custom
+        - name: linear algebra
+          description: 80%
+          icon: mathematic
+          icon_pack: custom
+        - name: C++
+          description:
+          icon: c
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
