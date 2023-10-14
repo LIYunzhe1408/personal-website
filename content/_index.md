@@ -67,7 +67,7 @@ sections:
         - title: Team Leader & Chief Technician
           company: SRM
           company_url: ''
-          company_logo: Shark
+          company_logo: srm
           location: Shanghai University
           date_start: '2020-09-01'
           date_end: ''
@@ -77,6 +77,19 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Research Assistant
+          company: Shanghai University Machine Learning Lab
+          company_url: ''
+          company_logo: ML
+          location: Shanghai University
+          date_start: '2021-09-01'
+          date_end: '2023-05-01'
+          description:  |2-
+              Responsibilities include:
+
+              * Collect and Pre-process literature data on NASICON
+              * Train and fine-tune NER&RE models
+              * Build a knowledge platform
         - title: Team Leader & Chief Programmer
           company: F.G.(Facing The Giants)
           company_url: ''
@@ -90,7 +103,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Highlights'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -100,36 +113,36 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://youtu.be/qeRvdmcNFAc
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-06-04'
+          description: Manipulator and manager of Engineer Robot
+          organization: RoboMaster University Championships
+          organization_url: https://www.robomaster.com/en-US
+          title: Engineer Robot of SRM
+          url: 'https://youtu.be/qeRvdmcNFAc'
+        - certificate_url: https://youtu.be/REICVFIxuHA
+          date_end: 'The present'
+          date_start: '2020-09-01'
+          description: From rookie to team leader of SRM in three years.
+          organization: SRM
+          organization_url:
+          title: My three-year journey as a SRMer
+          url: https://youtu.be/REICVFIxuHA
+        - certificate_url: https://youtu.be/ZKn0rDUpNfY
+          date_end: '2020-08-01'
+          date_start: '2017-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: FIRST®
+          organization_url: https://www.firstinspires.org/
+          title: Inspiration | FIRST® Documentary
+          url: 'https://youtu.be/ZKn0rDUpNfY'
     design:
       columns: '2'
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Highlights
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
