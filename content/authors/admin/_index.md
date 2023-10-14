@@ -28,9 +28,6 @@ bio: My research interests include manipulation, perception and cognition within
 interests:
   - Artificial Intelligence
   - Robotics
-# Highlights to show in About widget
-highlights:
-  - [SRM](https://www.youtube.com/watch?v=sL3W-8wbF7k)
 
 # Education to show in About widget
 education:
