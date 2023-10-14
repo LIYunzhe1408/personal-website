@@ -73,10 +73,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
+
         - title: Research Assistant
           company: Shanghai University Machine Learning Lab
           company_url: ''
@@ -86,10 +86,10 @@ sections:
           date_end: '2023-05-01'
           description:  |2-
               Responsibilities include:
-
               * Collect and Pre-process literature data on NASICON
               * Train and fine-tune NER&RE models
               * Build a knowledge platform
+
         - title: Team Leader & Chief Programmer
           company: F.G.(Facing The Giants)
           company_url: ''
@@ -122,7 +122,7 @@ sections:
           title: Engineer Robot of SRM
           url: 'https://youtu.be/qeRvdmcNFAc'
         - certificate_url: https://youtu.be/REICVFIxuHA
-          date_end: 'The present'
+          date_end: ''
           date_start: '2020-09-01'
           description: From rookie to team leader of SRM in three years.
           organization: SRM
@@ -132,7 +132,7 @@ sections:
         - certificate_url: https://youtu.be/ZKn0rDUpNfY
           date_end: '2020-08-01'
           date_start: '2017-09-01'
-          description: ''
+          description: Team Leader of Facing The Giants
           organization: FIRST®
           organization_url: https://www.firstinspires.org/
           title: Inspiration | FIRST® Documentary
