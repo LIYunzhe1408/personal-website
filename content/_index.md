@@ -43,6 +43,14 @@ sections:
           description: 
           icon: c-
           icon_pack: custom
+        - name: entrepreneurship
+          description: 
+          icon: entrepreneurship
+          icon_pack: custom
+        - name: Crafting
+          description: 
+          icon: repair
+          icon_pack: custom
 
   - block: experience
     content:
