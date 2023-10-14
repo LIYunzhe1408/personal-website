@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Yunzhe Li
+      title: Jonas
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features

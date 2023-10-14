@@ -64,5 +64,5 @@ email: ''
 highlight_name: true
 ---
 
-Yunzhe Li is a passionate and dedicated robot enthusiast with several years of experiencing robotics competitions, while highly interested in Artificial Intelligence for robotics. Familiar with object detection and prediction algorithms in CV field, and successfully implementing them to actual robots. Equipped with excellent scientific research ability. Basic grasp of mechanical design and robot control. Bringing forth the ability to manage the team and interact effectively with teammates and project mates.
+A passionate and dedicated robot enthusiast with several years of experiencing robotics competitions, while highly interested in Artificial Intelligence for robotics. Familiar with object detection and prediction algorithms in CV field, and successfully implementing them to actual robots. Equipped with excellent scientific research ability. Basic grasp of mechanical design and robot control. Bringing forth the ability to manage the team and interact effectively with teammates and project mates.
 {style="text-align: justify;"}
