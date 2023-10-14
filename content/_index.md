@@ -15,10 +15,10 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: python
           description: 90%
-          icon: r-project
-          icon_pack: fab
+          icon: fa-python
+          icon_pack: fa-brands
         - name: Statistics
           description: 100%
           icon: chart-line
@@ -52,13 +52,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Team Leader & Chief Programmer
+          company: F.G.(Facing The Giants)
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: fg
+          location: Shanghai Xinzhuang Senior High School
+          date_start: '2017-09-01'
+          date_end: '2020-08-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
