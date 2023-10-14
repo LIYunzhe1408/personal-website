@@ -73,9 +73,24 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Project Management
+              * Seek funding and operate the whole team          
+              * Develop algorithms to activate Energy Rune in the competition
+              
+
+        - title: Algorithm Engineer Intern
+          company: ByteDance
+          company_url: 'https://www.bytedance.com/en/'
+          company_logo: ByteDance
+          location: Kaide Shangpu Business Center, No.99, Jiangwancheng Road, Yangpu District, Shanghai
+          date_start: '2023-09-01'
+          date_end: '2023-06-28'
+          description:  |2-
+              Responsibilities include:
+              * Collect and pre-process users’ behavioral data from the established platform
+              * Fine-tune established models to extract key information and construct Knowledge Graph
+              * Collaborate with software engineers to build enterprise-level platform with models
+              * Analyze the positive impact of the model landing on the e-commerce ecosystem
 
         - title: Research Assistant
           company: Shanghai University Machine Learning Lab
@@ -90,6 +105,19 @@ sections:
               * Train and fine-tune NER&RE models
               * Build a knowledge platform
 
+        - title: Algorithm Engineer Intern
+          company: SHANGHAI-FANUC Robotics CO., LTD.
+          company_url: 'https://www.shanghai-fanuc.com.cn/'
+          company_logo: SHANGHAI-FANUC
+          location: NO 1500, Fulian Road, Baoshan District, Shanghai
+          date_start: '2021-09-04'
+          date_end: '2021-06-30'
+          description:  |2-
+              Responsibilities include:
+              * Integrate concept of rigid body motion and the robot with Eigen library in C++
+              * Develop algorithms to detect screws, holes to inspect automotive engine assembly results
+              * Optimize detection performance with Least Squares
+
         - title: Team Leader & Chief Programmer
           company: F.G.(Facing The Giants)
           company_url: ''
@@ -97,7 +125,12 @@ sections:
           location: Shanghai Xinzhuang Senior High School
           date_start: '2017-09-01'
           date_end: '2020-08-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:  |2-
+              Responsibilities include:
+              * Assign workloads and manage the process
+              * Liaise with other teams
+              * Develop controlling and vision algorithms
+              * Assist build the robot structure 
     design:
       columns: '2'
   - block: accomplishments
@@ -135,7 +168,7 @@ sections:
           description: Team Leader of Facing The Giants
           organization: FIRST®
           organization_url: https://www.firstinspires.org/
-          title: Inspiration | FIRST® Documentary
+          title: Inspiration | FIRST® Tech Challenge Documentary
           url: 'https://youtu.be/ZKn0rDUpNfY'
     design:
       columns: '2'
