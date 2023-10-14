@@ -117,7 +117,7 @@ sections:
           date_end: ''
           date_start: '2023-06-04'
           description: Manipulator and manager of Engineer Robot
-          organization: RoboMaster University Championships
+          organization: RoboMaster
           organization_url: https://www.robomaster.com/en-US
           title: Engineer Robot of SRM
           url: 'https://youtu.be/qeRvdmcNFAc'
