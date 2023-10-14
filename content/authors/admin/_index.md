@@ -25,9 +25,10 @@ organizations:
 bio: My research interests include manipulation, perception and cognition within robotics.
 
 # Interests to show in About widget
-interests:
+highlights:
   - Artificial Intelligence
   - Robotics
+    link: https://github.com/LIYunzhe1408
 
 # Education to show in About widget
 education:
@@ -46,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'liyunzhe.jonas@outlook.com'
+    link: liyunzhe.jonas@outlook.com
   - icon: github
     icon_pack: fab
     link: https://github.com/LIYunzhe1408
