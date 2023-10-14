@@ -25,24 +25,25 @@ sections:
           icon_pack: fab
         - name: deep-learning
           description: 
-          icon: my-icon-deep-learning.svg
+          icon: my-icon-deep-learning
           icon_pack: custom
         - name: leadership
           description: 
-          icon: my-icon-leadership.svg
+          icon: my-icon-leadership
           icon_pack: custom
         - name: project management
           description: 
-          icon: my-icon-project-management.svg
+          icon: my-icon-project-management
           icon_pack: custom
         - name: linear algebra
           description: 
-          icon: my-icon-mathematic.svg
+          icon: my-icon-mathematic
           icon_pack: custom
         - name: C++
-          description:
-          icon: my-icon-c.svg
+          description: 
+          icon: my-icon-c-
           icon_pack: custom
+
   - block: experience
     content:
       title: Experience
