@@ -151,7 +151,7 @@ sections:
           date_start: '2023-09-01'
           date_end: '2023-06-28'
           description:  |2-
-              Working on improving the efficiency of transaction link for e-commerce
+              Working on improving the efficiency of transaction link for e-commerce  
               Responsibilities include:
               * Collect and pre-process users’ behavioral data from the established platform
               * Fine-tune established models to extract key information and construct Knowledge Graph
@@ -172,7 +172,7 @@ sections:
               * Collect and pre-process literature and meta data on NASICON with data crawling and OCR
               * Build and train NER and RE models with pre-processed literature data
               * Construct Knowledge Graph in NASICON with models’ output
-              * Build a knowledge platform to predict ion properties affecting conductivity
+              * Build a knowledge platform to predict ion properties affecting conductivity  
               Researches include:
               * Research on Automatic acquisition of NASICON solid-state electrolyte descriptors
               * Research on traceable NASICON solid electrolyte text information extraction tool
