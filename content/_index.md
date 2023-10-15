@@ -32,7 +32,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: contact.jpg
+              filename: SAS.jpg
               filters:
                 brightness: 0.7
             position: center
@@ -44,7 +44,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: welcome.jpg
+              filename: fg.jpg
               filters:
                 brightness: 0.5
             position: center
