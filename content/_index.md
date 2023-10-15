@@ -191,7 +191,7 @@ sections:
           date_start: '2021-05-16'
           date_end: '2021-05-14'
           description:  |2-
-              FTC Ultimate Goal Hangzhou Invitational - 50+ teams
+              FTC Ultimate Goal Hangzhou Invitational - 50+ teams  
               Responsibilities include:
               * Assisted make final judgements on cases of violating games rules during events
               * Facilitated meetings for event coordinators regarding event schedule, event logistics, etc
