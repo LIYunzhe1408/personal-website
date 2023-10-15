@@ -79,27 +79,27 @@ sections:
     content:
       title: Skills
       items:
-        - name: python
+        - name: Python
           description: 
           icon: python
           icon_pack: fab
-        - name: java
+        - name: Java
           description: 
           icon: java
           icon_pack: fab
-        - name: deep-learning
+        - name: Deep-Learning
           description: 
           icon: deep-learning
           icon_pack: custom
-        - name: leadership
+        - name: Leadership
           description: 
           icon: leadership
           icon_pack: custom
-        - name: project management
+        - name: Project Management
           description: 
           icon: project-management
           icon_pack: custom
-        - name: linear algebra
+        - name: Linear Algebra
           description: 
           icon: mathematic
           icon_pack: custom
@@ -107,7 +107,7 @@ sections:
           description: 
           icon: c-
           icon_pack: custom
-        - name: entrepreneurship
+        - name: Entrepreneurship
           description: 
           icon: entrepreneurship
           icon_pack: custom
@@ -181,6 +181,22 @@ sections:
               * Integrate concept of rigid body motion and the robot with Eigen library in C++
               * Develop algorithms to detect screws, holes to inspect automotive engine assembly results
               * Optimize detection performance with Least Squares
+
+
+        - title: Volunteer Staff - Field Referee
+          company: FIRST®
+          company_url: ''
+          company_logo: first®
+          location: Olive Tree International Academy, BFSU, Hangzhou
+          date_start: '2021-05-16'
+          date_end: '2021-05-14'
+          description:  |2-
+              FTC Ultimate Goal Hangzhou Invitational - 50+ teams
+              Responsibilities include:
+              * Assisted make final judgements on cases of violating games rules during events
+              * Facilitated meetings for event coordinators regarding event schedule, event logistics, etc
+              * Assigned volunteers to positions
+
 
         - title: Team Leader & Chief Programmer
           company: F.G.(Facing The Giants)
