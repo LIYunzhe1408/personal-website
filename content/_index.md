@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Engineer Robot
-          content: Take a look at what we're working on...
+        - title: ENGINEER ROBOT IN RMUC 2023
+          content: Manipulating to exchange Minerals
           align: center
           background:
             image:
@@ -18,16 +18,16 @@ sections:
               filename: engineer.jpg
               filters:
                 brightness: 0.7
-            position: right
+            position: center
             color: '#666'
           link:
-            icon: graduation-cap
+            icon: video
             icon_pack: fas
-            text: Join Us
+            text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
-          align: left
+        - title: INSPIRE AWARD OF FACING THE GIANTS, 2018
+          content: The most cherishable period during my F.G. career
+          align: right
           background:
             image:
               # Specify an image from `assets/media/`
@@ -37,30 +37,35 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+          link:
+            icon: video
+            icon_pack: fas
+            text: Learn More
+            url: https://youtu.be/ZKn0rDUpNfY
+        - title: MY THREE-YEAR JOURNEY AS A SRMer
+          content: Winning 3rd Place and standing on the podium for the first time 
           align: right
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: fg.jpg
+              filename: RMUL.jpg
               filters:
                 brightness: 0.5
             position: center
             color: '#333'
           link:
-            icon: graduation-cap
+            icon: video
             icon_pack: fas
-            text: Join Us
-            url: ../contact/
+            text: Learn More
+            url: https://youtu.be/ZKn0rDUpNfY
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 
