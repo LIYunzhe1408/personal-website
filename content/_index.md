@@ -25,8 +25,8 @@ sections:
             icon_pack: fas
             text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
-        - title: INSPIRE AWARD OF FACING THE GIANTS
-          content: The most cherishable period during my F.G. career
+        - title: INSPIRE AWARD
+          content: The most cherishable period during my career in #1408 Facing the Giants
           align: right
           background:
             image:
