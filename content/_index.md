@@ -72,7 +72,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Jonas - A Team Leader, Robotics Practitioner, Ambassador of Science and Technologies, FIRST/RoboMaster Alumni
+      title: Jonas
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
