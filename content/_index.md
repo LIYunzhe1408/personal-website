@@ -136,6 +136,7 @@ sections:
           date_start: '2020-09-01'
           date_end: ''
           description: |2-
+              A team competing for *RoboMaster* robotics competition
               Responsibilities include:
               * Project Management
               * Seek funding and operate the whole team          
@@ -150,6 +151,7 @@ sections:
           date_start: '2023-09-01'
           date_end: '2023-06-28'
           description:  |2-
+              Working on improving the efficiency of transaction link for e-commerce
               Responsibilities include:
               * Collect and pre-process users’ behavioral data from the established platform
               * Fine-tune established models to extract key information and construct Knowledge Graph
@@ -164,10 +166,16 @@ sections:
           date_start: '2021-09-01'
           date_end: '2023-05-01'
           description:  |2-
+              Researches on NASICON with the application of Machine Learning  
+              Supervised by Prof.Yue LIU
               Responsibilities include:
-              * Collect and Pre-process literature data on NASICON
-              * Train and fine-tune NER&RE models
-              * Build a knowledge platform
+              * Collect and pre-process literature and meta data on NASICON with data crawling and OCR
+              * Build and train NER and RE models with pre-processed literature data
+              * Construct Knowledge Graph in NASICON with models’ output
+              * Build a knowledge platform to predict ion properties affecting conductivity
+              Researches include:
+              * Research on Automatic acquisition of NASICON solid-state electrolyte descriptors
+              * Research on traceable NASICON solid electrolyte text information extraction tool
 
         - title: Algorithm Engineer Intern
           company: SHANGHAI-FANUC Robotics CO., LTD.
@@ -177,6 +185,7 @@ sections:
           date_start: '2021-09-04'
           date_end: '2021-06-30'
           description:  |2-
+              Working on efficient inspection of products with computer vision algrithms in the manufacturing industry
               Responsibilities include:
               * Integrate concept of rigid body motion and the robot with Eigen library in C++
               * Develop algorithms to detect screws, holes to inspect automotive engine assembly results
@@ -206,6 +215,7 @@ sections:
           date_start: '2017-09-01'
           date_end: '2020-08-01'
           description:  |2-
+              A team competing for *FIRST®* robotics competition
               Responsibilities include:
               * Assign workloads and manage the process
               * Liaise with other teams
