@@ -22,22 +22,23 @@ organizations:
     url: https://www.shu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include manipulation, perception and cognition within robotics.
+bio: A Robotics Practitioner, Team Leader, Ambassador of Science and Technologies, FIRST/RoboMaster Alumni, and Student @ SHU
 
 # Interests to show in About widget
-highlights:
+Interests:
   - Artificial Intelligence
   - Robotics
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: B.E. in Intelligence Science and Technology
       institution: Shanghai University
-      year: 2020-Present
-    - course: High School
+      year: 2020 - 2024
+    - course: Senior High School
       institution: Shanghai Xinzhuang Senior High School
-      year: 2017-2020
+      year: 2017 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-A passionate and dedicated robot enthusiast with several years of experiencing robotics competitions, while highly interested in Artificial Intelligence for robotics. Familiar with object detection and prediction algorithms in CV field, and successfully implementing them to actual robots. Equipped with excellent scientific research ability. Basic grasp of mechanical design and robot control. Bringing forth the ability to manage the team and interact effectively with teammates and project mates.
+Yunzhe Li is the Team Leader of SRM competing for RoboMaster at Shanghai University, and alumni of FIRST® and RoboMaster. He served as the Team Leader of FTC 1408-Facing The Giants at Shanghai Xinzhuang Senior High School from 2017-2020. ;Yunzhe Li is a passionate robotics practitioner with diverse experience in robotics competitions, researches on Machine Learning within NASICON, computer vision applications of industrial robots and machine learning practical applications. His research interests in robotics fixates on manipulation and recognition, especially for advanced abilities in complex environments, to empower robots to collaborate with human more efficiently in hazardous tasks like earthquake salvation and deep sea expedition. In addition to his technical contributions, he is a regional leading voice for inspiring young generations to better explore the world with STEM and to transform our culture by creating a global community where science and technology are celebrated. 
 {style="text-align: justify;"}

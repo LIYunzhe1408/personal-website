@@ -26,7 +26,7 @@ sections:
             text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
         - title: INSPIRE AWARD
-          content: The most cherishable period in 1408-Facing the Giants
+          content: The most cherishable period in FTC 1408-Facing the Giants
           align: right
           background:
             image:
@@ -58,7 +58,7 @@ sections:
             icon: video
             icon_pack: fas
             text: Learn More
-            url: https://youtu.be/ZKn0rDUpNfY
+            url: https://youtu.be/REICVFIxuHA
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '300px'
@@ -226,7 +226,7 @@ sections:
           organization_url:
           title: My three-year journey as a SRMer
           url: https://youtu.be/REICVFIxuHA
-        - certificate_url: https://youtu.be/ZKn0rDUpNfY
+        - certificate_url: https://youtu.be/REICVFIxuHA
           date_end: '2020-08-01'
           date_start: '2017-09-01'
           description: Team Leader of Facing The Giants
