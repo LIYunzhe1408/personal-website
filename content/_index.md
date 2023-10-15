@@ -26,7 +26,7 @@ sections:
             text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
         - title: INSPIRE AWARD
-          content: The most cherishable period during my career in #1408 Facing the Giants
+          content: The most cherishable period in #1408 Facing the Giants
           align: right
           background:
             image:
