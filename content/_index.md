@@ -61,7 +61,7 @@ sections:
             url: https://youtu.be/ZKn0rDUpNfY
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '300px'
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
