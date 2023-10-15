@@ -26,7 +26,7 @@ sections:
             text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
         - title: INSPIRE AWARD
-          content: The most cherishable period in #1408 Facing the Giants
+          content: The most cherishable period in 1408-Facing the Giants
           align: right
           background:
             image:
@@ -67,7 +67,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 5000
+      interval: 5800
 
   - block: about.biography
     id: about
