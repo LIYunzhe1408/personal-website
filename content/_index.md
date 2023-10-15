@@ -25,7 +25,7 @@ sections:
             icon_pack: fas
             text: Learn More
             url: https://youtu.be/qeRvdmcNFAc
-        - title: INSPIRE AWARD OF FACING THE GIANTS, 2018
+        - title: INSPIRE AWARD OF FACING THE GIANTS
           content: The most cherishable period during my F.G. career
           align: right
           background:
@@ -42,8 +42,8 @@ sections:
             icon_pack: fas
             text: Learn More
             url: https://youtu.be/ZKn0rDUpNfY
-        - title: MY THREE-YEAR JOURNEY AS A SRMer
-          content: Winning 3rd Place and standing on the podium for the first time 
+        - title: MY THREE-YEAR SRM JOURNEY
+          content: Winning 3rd Place & Standing on the podium for the first time 
           align: right
           background:
             image:
@@ -67,7 +67,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
 
   - block: about.biography
     id: about
