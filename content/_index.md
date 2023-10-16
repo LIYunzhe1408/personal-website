@@ -61,7 +61,7 @@ sections:
             url: https://youtu.be/REICVFIxuHA
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '300px'
+      slide_height: ''
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
@@ -117,6 +117,7 @@ sections:
           icon_pack: custom
 
   - block: experience
+    id: exp
     content:
       title: Experience
       # Date format for experience
@@ -224,6 +225,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: highlight
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Highlights'
@@ -271,7 +273,7 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 1
+      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
@@ -302,6 +304,7 @@ sections:
 
 
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -310,7 +313,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured
+    id: propmte
     content:
       title: Featured Promotion
       filters:
