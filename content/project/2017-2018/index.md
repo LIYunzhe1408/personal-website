@@ -3,6 +3,7 @@ title: Robot for 2017/2018 Relic Recovery
 summary: The robot got an Inspire Award
 tags:
   - 2017-2018
+  - robotics
 date: '2018-03-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

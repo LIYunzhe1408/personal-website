@@ -3,6 +3,7 @@ title: Robot for 2019/2020 Skystone
 summary: Build the space with skystones
 tags:
   - 2019-2020
+  - robotics
 date: '2020-01-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

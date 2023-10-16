@@ -3,6 +3,7 @@ title: Robot for 2018/2019 Rover Ruckus
 summary: Explore the space!
 tags:
   - 2018-2019
+  - robotics
 date: '2019-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
