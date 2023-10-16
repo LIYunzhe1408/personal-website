@@ -287,15 +287,16 @@ sections:
         - name: Other
           tag: Demo
         - name: Robotics
-          tag: '2017-2018'
-          tag: '2018-2019'
+          tag: 
+            - '2017-2018'
+            - '2018-2019' 
         - name: Research
           tag: Research
         - name: Course Proj
           tag: Course Proj
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
