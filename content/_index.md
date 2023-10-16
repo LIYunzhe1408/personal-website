@@ -272,9 +272,10 @@ sections:
       filters:
         folders:
           - project
+        featured_only: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      featured-only: false
+        featured-only: false
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
@@ -301,7 +302,7 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
 
 
   - block: markdown
