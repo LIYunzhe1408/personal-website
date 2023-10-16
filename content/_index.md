@@ -272,6 +272,13 @@ sections:
       filters:
         folders:
           - project
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
         featured_only: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
@@ -288,10 +295,7 @@ sections:
         - name: Other
           tag: Demo
         - name: Robotics
-          tag: 2017-2018
-          tag: 2018-2019
-          tag: 2019-2020
-          tag: 2020-2021
+          tag: [2017-2018, 2018-2019]
         - name: Research
           tag: Research
         - name: Course Proj
