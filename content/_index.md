@@ -286,11 +286,8 @@ sections:
           tag: Demo
         - name: Robotics
           tag: 2017-2018
-        - name: Robotics
           tag: 2018-2019
-        - name: Robotics
           tag: 2019-2020
-        - name: Robotics
           tag: 2020-2021
         - name: Research
           tag: Research
