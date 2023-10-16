@@ -285,7 +285,7 @@ sections:
         - name: Other
           tag: Demo
         - name: Robotics
-          tag: Robotics
+          tag: 2017-2018
         - name: Research
           tag: Research
         - name: Course Proj
