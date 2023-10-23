@@ -282,10 +282,6 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
         - name: Robotics
           tag: robotics
         - name: Research
@@ -310,17 +306,7 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: promote
-    content:
-      title: Featured Promotion
-      filters:
-        folders:
-          - promotion
-        featured_only: false
-    design:
-      columns: '2'
-      view: card
+# Promotion
   
 
   - block: contact
