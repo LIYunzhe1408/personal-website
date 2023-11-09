@@ -18,7 +18,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Designed by Yunzhe Li, Yixin Wang, Xiaopeng Wang, Mingqing Liu, Yufeng Li.
