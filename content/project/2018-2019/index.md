@@ -10,7 +10,7 @@ date: '2019-05-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo in FIRST<sup>®</sup> World Championship
+  caption: Photo in Lab of F.G. before the qualifier
   focal_point: Smart
 
 # Slides (optional).
@@ -21,10 +21,10 @@ image:
 slides: example
 ---
 
-Designed by Haojie Zhang, Sichen Wang, Yunyi Ye, Yunzhe Li, Wen Wang, Zheng Yuan, Yixin Wang, Jie Liu, Kewei Yin.
+Designed by Yunzhe Li, Yixin Wang, Xiaopeng Wang, Mingqing Liu, Yufeng Li.
 
-First version launched in Shanghai American School Qualifier, March 25, 2018. We got an Inspire Award due to our gracious professionalism and outstanding field performance.
+First version launched in FIRST<sup>®</sup> World Championship in Houston.
 
-Second version launched in FIRST<sup>®</sup> World Championship in Detroit, April 28, 2018. Mechanical claws and more efficient intakes were designed.
+Second version launched in Shanghai Qualifier, June, 2019. Recognition logics were optimized. 
 
-Third version launched in FIRST<sup>®</sup> China Finals, June 3, 2018. Better recognition algorithms using Vuforia.
+Third version launched in July, 2019. Mechanical structure for object classification were revised.
