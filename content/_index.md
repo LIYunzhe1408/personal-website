@@ -286,8 +286,8 @@ sections:
           tag: robotics
         - name: Research
           tag: Research
-        - name: Course Proj
-          tag: Course Proj
+        - name: Coursework
+          tag: Coursework
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
