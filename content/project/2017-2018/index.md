@@ -1,6 +1,6 @@
 ---
-title: Robot for 2017/2018 Relic Recovery
-summary: The robot got an Inspire Award
+title: F.G. - Robot for Relic Recovery
+summary: He got one INSPIRE AWARD and two CONNECT AWARDS in 2017/18 FIRST<sup>®</sup> Tech Challenge Relic Recovery.
 tags:
   - 2017-2018
   - robotics

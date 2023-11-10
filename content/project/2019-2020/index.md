@@ -1,6 +1,6 @@
 ---
-title: Robot for 2019/2020 Skystone
-summary: Better Structure, Better Algorithm
+title: F.G. - Robot for Skystone
+summary: He got the Finalist Alliance and one CONNECT AWARD in 2019/2020 FIRST<sup>®</sup> Tech Challenge Skystone.
 tags:
   - 2019-2020
   - robotics

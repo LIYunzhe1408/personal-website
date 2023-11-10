@@ -1,6 +1,6 @@
 ---
 title: SRM - Standard Robot
-summary: Agile assassin on the field, earning a buff for the team.
+summary: The agile assassin on the *RoboMaster* field, earning a buff for the team.
 tags:
   - robotics
   - SRM
@@ -21,19 +21,22 @@ image:
 ---
 
 Mechanical Structure: Sijie Chen, Lingji Ming, Yunxin Luo
+
 Control: Tian Guo, Zhuohan Fang, Yang Li, Chenjun Yang, Yuantao Tang
+
 Vision: Yunzhe Li, Yi Xie, Xinyu He, Jun Chen, Mingxuan Yang
 
-Functions:
+Functions: Shoot 17mm pellets
 * Activate Energy Rune
 * Fly the Slope
 * Spin and Shoot
 * Omni-directional Motion;
 
 
-![Standard Robot](./0.jpg "Standard")
-![](./1.jpg)
-![](./2.jpg)
-![](./3.jpg)
+![Standard Robot](./1.jpg "Standard of 2021/2022 version")
+![](./3.jpg "The Spinning Standard")
+![](./4.jpg "Standards Versus Hero")
+![](./5.jpg "Standard Ready for fights")
+![](./7.jpg "#4 Standard on the field")
 
 <video src="./test-2.mp4" width="800px" height="600px" controls="controls"></video>

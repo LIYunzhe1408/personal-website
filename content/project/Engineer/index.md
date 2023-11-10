@@ -1,6 +1,6 @@
 ---
-title: SRM - Standard Robot
-summary: Agile assassin on the field, earning a buff for the team.
+title: SRM - Engineer Robot
+summary: The team supporter on the *RoboMaster* field, catching mineral to exchange golden coins.
 tags:
   - robotics
   - SRM
@@ -21,10 +21,20 @@ image:
 ---
 
 Manager: Yunzhe Li, Xinyu He, Chen Chen
+
 Mechanical Structure: Chen Chen, Qiming Pu
+
 Control: Jingyi Li, Kaicheng Li, Daoming He, Hanqing Huang
 
+Functions:Catch minerals
+* In the air
+* On the ground
+* In the slot
 
-![](./test.jpg)
+Access to full videos: [SRM Engineer Robot Reveal](https://youtu.be/qeRvdmcNFAc?si=Lao9lXq2gJHtXv1C)
 
-<video src="./test-2.mp4" width="800px" height="600px" controls="controls"></video>
+![](./1.jpg "The Engineer with a sliver mineral")
+![](./2.jpg "Testing for Engineer")
+![](./4.jpg "Engineer Overview")
+![](./3.jpg "Checking The Engineer on the field")
+![](./5.jpg "The Engineer on the field")

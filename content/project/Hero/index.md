@@ -1,15 +1,15 @@
 ---
-title: SRM - Standard Robot
-summary: Agile assassin on the field, earning a buff for the team.
+title: SRM - Hero Robot
+summary: The super carry on the *RoboMaster* field, destroying enemy's turrets.
 tags:
   - robotics
-date: '2021-01-30T00:00:00Z'
+date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo in FIRST<sup>®</sup> World Championship
+  caption: Photo in Changsha He Long Stadium
   focal_point: Smart
 
 # Slides (optional).
@@ -19,9 +19,19 @@ image:
 #   Otherwise, set `slides = ""`.
 ---
 
-Mechanical Structure: Sijie Chen, Lingji Ming, Yunxin Luo
-Control: Tian Guo, Zhuohan Fang, Yang Li, Chenjun Yang, Yuantao Tang
-Vision: Yunzhe Li, Yi Xie, Xinyu He, Jun Chen, Mingxuan Yang
-![](./test.jpg)
+Manager: Yunzhe Li, Jialin Li
 
-<video src="./test-2.mp4" width="800px" height="600px" controls="controls"></video>
+Mechanical Structure: Ziyi Tian, Mian Wu, Jialin Li
+
+Control: Han Lu, Desen Luo, Kaiwen Zhou, Jingyu Chen
+
+Vision: Yi Xie, Zhengyu Li, Yunzhe Li, Minjun Lu
+
+Functions: Shoot 42mm pellets, dealing high damage
+* Destroy Outpost
+* Destroy Base
+* Kill enemies
+
+![](./1.jpg "Testing the Hero")
+![](./3.jpg "Hero Overview")
+![](./5.jpg "Hero on the field")

@@ -1,6 +1,6 @@
 ---
-title: Robot for 2020/2021 Ultimate Goal
-summary: Launch rings at tower goals and power shots or move wobble goals to scoring locations
+title: F.G. - Robot for Ultimate Goal
+summary: He got the second place CONNECT AWARD in 2020/2021 FIRST<sup>®</sup> Tech Challenge Ultimate Goal.
 tags:
   - 2020-2021
   - robotics
@@ -19,6 +19,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+Launch rings at tower goals and power shots or move wobble goals to scoring locations
 
 Designed by Junyi Pang, Qiulai Fu, etc., advised by Yunzhe Li, Yixin Wang.
 

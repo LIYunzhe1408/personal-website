@@ -1,6 +1,6 @@
 ---
-title: Robot for 2018/2019 Rover Ruckus
-summary: Explore the space!
+title: F.G. - Robot for Rover Ruckus
+summary: He got one CONNECT AWARD in 2018/2019 FIRST<sup>®</sup> Tech Challenge Rover Ruckus.
 tags:
   - 2018-2019
   - robotics

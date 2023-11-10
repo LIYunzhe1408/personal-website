@@ -1,15 +1,15 @@
 ---
-title: SRM - Standard Robot
-summary: Agile assassin on the field, earning a buff for the team.
+title: SRM - Sentry Robot
+summary: Fully automatic robot on the *RoboMaster* field, protecting the base and attack enemies.
 tags:
   - robotics
-date: '2021-01-30T00:00:00Z'
+date: '2023-04-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo in FIRST<sup>®</sup> World Championship
+  caption: Photo in Changsha He Long Stadium
   focal_point: Smart
 
 # Slides (optional).
@@ -18,10 +18,21 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+Manager: Yunzhe Li, Xinyu He, Jingsong Li
 
-Mechanical Structure: Sijie Chen, Lingji Ming, Yunxin Luo
-Control: Tian Guo, Zhuohan Fang, Yang Li, Chenjun Yang, Yuantao Tang
-Vision: Yunzhe Li, Yi Xie, Xinyu He, Jun Chen, Mingxuan Yang
-![](./test.jpg)
+Mechanical Structure: Xiaoyu Yue, Zhengyu He, Mian Wu
 
-<video src="./test-2.mp4" width="800px" height="600px" controls="controls"></video>
+Control: Jingsong Li, Chenjun Yang
+
+Vision: Mingxuan Yang, Yi Xie
+
+Functions: Shoot 17mm pellets
+* Navigating by sensors/cameras
+* Earning buffs
+* Kill enemies
+
+![](./1.jpg "Sentry Overview")
+![](./4.jpg "Sentry on the field")
+![](./5.jpg "Sentry on the field - 2")
+
+<video src="./1.mp4" width="800px" height="600px" controls="controls"></video>
