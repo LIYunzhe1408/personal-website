@@ -1,6 +1,6 @@
 ---
 title: Paper report for DRLTO
-summary: Coursework in Game Theory and Reinforcement Learning. 2023 Fall
+summary: Coursework in Game Theory and Reinforcement Learning.
 tags:
   - Coursework
   - Game Theory
