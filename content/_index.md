@@ -148,8 +148,8 @@ sections:
           company_url: 'https://www.bytedance.com/en/'
           company_logo: bytedance
           location: Kaide Shangpu Business Center, No.99, Jiangwancheng Road, Yangpu District, Shanghai
-          date_start: '2023-09-01'
-          date_end: '2023-06-28'
+          date_start: '2023-06-28'
+          date_end: '2023-09-01'
           description:  |2-
               Working on improving the efficiency of transaction link for e-commerce  
               Responsibilities include:
@@ -182,8 +182,8 @@ sections:
           company_url: 'https://www.shanghai-fanuc.com.cn/'
           company_logo: shanghai-fanuc
           location: NO 1500, Fulian Road, Baoshan District, Shanghai
-          date_start: '2021-09-04'
-          date_end: '2021-06-30'
+          date_start: '2021-06-30'
+          date_end: '2021-09-04'
           description:  |2-
               Working on efficient inspection of products with computer vision algrithms in the manufacturing industry
               Responsibilities include:
@@ -238,15 +238,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://youtu.be/qeRvdmcNFAc
-          date_end: ''
-          date_start: '2023-06-04'
+          date_end: '2023-06-23'
+          date_start: '2022-09-01'
           description: Manipulator and manager of Engineer Robot
           organization: RoboMaster
           organization_url: https://www.robomaster.com/en-US
           title: Engineer Robot of SRM
           url: 'https://youtu.be/qeRvdmcNFAc'
         - certificate_url: https://youtu.be/REICVFIxuHA
-          date_end: ''
+          date_end: '2024-07-01'
           date_start: '2020-09-01'
           description: From rookie to team leader of SRM in three years.
           organization: SRM
