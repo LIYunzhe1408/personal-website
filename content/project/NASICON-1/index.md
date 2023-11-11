@@ -23,7 +23,7 @@ image:
 Project Leader: Yunzhe Li
 Members: Licheng Zhen, Jiayao Zhang
 
-<video src="./1.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="./end.mp4" width="800px" height="600px" controls="controls"></video>
 
 At present, data-driven machine learning has been widely used in the field of NASICON solid electrolyte materials to predict the activation energy and study the structure-activity relationship. Among them, the choice of descriptor is particularly important, it will affect the quality of data and thus affect the predictive performance of machine learning. However, there is a large amount of descriptor-related knowledge in the published scientific literature to be developed.
 
@@ -37,6 +37,3 @@ Document preprocessing is a necessary step in the construction of supervised mat
 **PDF2TXT processor based on PDFMiner:** Through this program to extract material plain text data from PDF documents. First, the PDF document is analyzed, and the PDF document is output to TXT format text data; Then, in this process, regular expression and other corresponding technologies are used to remove the content that is not conducive to literature mining, such as line breaking, references, graphs and tables. Finally, the remaining large amount of plain text content in PDF documents is stored in TXT text library.
 
 **Text processing based on ChemDataExtractor and manual cleaning:** In the late preprocessing, the plain text data needs to be processed to get the data that can be used for annotation. In English text, punctuation is one of the more obvious ways to identify sentences, but material text is domain-specific, that is, language in materials science is often complicated by terms consisting of multiple words, symbols, and other types of structural entities. For example,(La0.8Sr0.2)0.97MnO3,(1−x)Pb(Zr0.52Ti0.48)O3−xBaTiO3, etc. Therefore, the field of materials requires specialized text processing tools, which are important for the success of text mining in materials science. ChemDataExtractor has the most complete function in the above three tools, and its operation is simple, user-friendly, and can handle the general field of material chemistry text. In addition, its version iteration is fast, indicating that the tool will integrate the latest technology in real time, and will have a greater competitive advantage in the future. Therefore, we use ChemDataExtractor as a material text symbol processing tool to realize text segmentation, clause and word segmentation of complex texts in the field of materials to obtain clean semi-structured text data that can be marked
-
-
-

@@ -3,6 +3,7 @@ title: Persistence + Effort! Look at this youth team on the road to pursue their
 summary: Interviewed by Shanghai Baoshan
 tags:
   - promotion
+  - SRM
 date: '2023-5-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -3,6 +3,7 @@ title: Another wonderful night in Shanghai
 summary: Interviewed by Jiefang Daily News
 tags:
   - promotion
+  - SRM
 date: '2023-5-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
