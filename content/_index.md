@@ -1,11 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-#             image:
-#             filename: RMUL.jpg
-# filters:
-# brightness: 0.5
-# position: center
-# color: '#333'
+
 title:
 date: 2022-10-24
 type: landing
@@ -51,12 +46,11 @@ sections:
         - title: MY THREE-YEAR SRM JOURNEY
           content: Winning 3rd Place & Standing on the podium for the first time 
           align: right
-          background:
-             video:
-             # Name of video in `assets/media/`.
-             filename: SRM.mp4
-             # Post-processing: flip the video horizontally?
-             flip: false
+          background: 
+            video:
+              filename: SRM.mp4
+              # Post-processing: flip the video horizontally?
+              flip: false
           link:
             icon: video
             icon_pack: fas
