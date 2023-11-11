@@ -288,6 +288,8 @@ sections:
           tag: Research
         - name: Coursework
           tag: Coursework
+        - name: Promotion
+          tag: Promotion
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
