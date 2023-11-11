@@ -64,7 +64,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-> A Team Leader, Robotics Practitioner, Ambassador of Science and Technology, *FIRST®* / *RoboMaster* Alumni  
+> A Team Leader, Robotics Practitioner, Ambassador of Science and Technology, *FIRST®* / *RoboMaster* Alumni
 
 Yunzhe Li is the Team Leader of SRM competing for *RoboMaster* at Shanghai University, and alumni of *FIRST<sup>®</sup>*  and *RoboMaster*. He served as the Team Leader of FTC 1408-*Facing The Giants* at Shanghai Xinzhuang Senior High School from 2017-2020. 
 

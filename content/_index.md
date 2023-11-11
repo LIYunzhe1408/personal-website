@@ -50,9 +50,9 @@ sections:
             image:
               filename: RMUL.jpg
               filters:
-              brightness: 0.5
-              position: center
-              color: '#333'   
+                brightness: 0.5
+            position: center
+            color: '#333'   
           link:
             icon: video
             icon_pack: fas
