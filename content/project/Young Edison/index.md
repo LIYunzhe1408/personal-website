@@ -72,7 +72,7 @@ Shanghai Xinzhuang Senior High School
 
 Invention project: The future partner of the car - "Vehicle Omnidirectional chassis"
 
-Advisor: Xu Zhuojiong
+Advisor: Zhuojiong Xu
 
 The scissor lift structure, paired with a pair of McNamum wheels, has no complex mechanical structure, and can park your car anywhere you want, no longer have to practice reversing technology.
 
