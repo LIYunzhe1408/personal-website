@@ -1,6 +1,6 @@
 ---
 title: Reflection on reading Selected Marx and Engels
-summary: Coursework in The Principles of Marxism Theories.
+summary: Coursework in The Principles of Marxism Theories, 2021 Fall
 tags:
   - Coursework
   - Marx

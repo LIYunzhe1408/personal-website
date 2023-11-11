@@ -1,6 +1,6 @@
 ---
 title: Knowledge Graph
-summary: Coursework in Semantic Web and Knowledge Graph, focusing on Java key points using Neo4j and Cypher
+summary: Coursework in Semantic Web and Knowledge Graph, focusing on Java key points using Neo4j and Cypher, 2022 Fall
 tags:
   - Coursework
   - Semantic Web
