@@ -46,11 +46,13 @@ sections:
         - title: MY THREE-YEAR SRM JOURNEY
           content: Winning 3rd Place & Standing on the podium for the first time 
           align: right
-          background: 
-            video:
-              filename: SRM.mp4
-              # Post-processing: flip the video horizontally?
-              flip: false
+          background:
+            image:
+              filename: RMUL.jpg
+              filters:
+              brightness: 0.5
+              position: center
+              color: '#333'   
           link:
             icon: video
             icon_pack: fas
