@@ -9,6 +9,21 @@ sections:
   - block: slider
     content:
       slides:
+        - title: MY THREE-YEAR SRM JOURNEY
+          content: Winning 3rd Place & Standing on the podium for the first time 
+          align: right
+          background:
+            image:
+              filename: RMUL.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'   
+          link:
+            icon: video
+            icon_pack: fas
+            text: Learn More
+            url: https://youtu.be/REICVFIxuHA
         - title: ENGINEER ROBOT IN RMUC 2023
           content: Manipulating to exchange Minerals
           align: center
@@ -43,21 +58,7 @@ sections:
             icon_pack: fas
             text: Learn More
             url: https://youtu.be/ZKn0rDUpNfY
-        - title: MY THREE-YEAR SRM JOURNEY
-          content: Winning 3rd Place & Standing on the podium for the first time 
-          align: right
-          background:
-            image:
-              filename: RMUL.jpg
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#333'   
-          link:
-            icon: video
-            icon_pack: fas
-            text: Learn More
-            url: https://youtu.be/REICVFIxuHA
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
