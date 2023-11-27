@@ -268,7 +268,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Projects - Selected
       filters:
         folders:
           - project
