@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yunzhe Li 李昀哲
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yunzhe
+last_name: Li
 
 # Status emoji
 status:
@@ -14,34 +14,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate of Intelligence Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai University
+    url: https://www.shu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A Robotics Practitioner, Team Leader, Ambassador of Science and Technologies, FIRST/RoboMaster Alumni, and Student @ SHU
 
 # Interests to show in About widget
-interests:
+Interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.E. in Intelligence Science and Technology
+      institution: Shanghai University
+      year: 2020 - 2024
+    - course: Senior High School
+      institution: Shanghai Xinzhuang Senior High School
+      year: 2017 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: liyunzhe.jonas@outlook.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/LIYunzhe1408
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -79,6 +64,13 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+> A Team Leader, Robotics Practitioner, Ambassador of Science and Technology, *FIRST®* / *RoboMaster* Alumni
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yunzhe Li is the Team Leader of SRM competing for *RoboMaster* at Shanghai University, and alumni of *FIRST<sup>®</sup>*  and *RoboMaster*. He served as the Team Leader of FTC 1408-*Facing The Giants* at Shanghai Xinzhuang Senior High School from 2017-2020. 
+
+Yunzhe Li is a passionate robotics practitioner with diverse experience in robotics competitions, researches on Machine Learning within NASICON, computer vision applications of industrial robots and machine learning practical applications. His research interests in robotics fixates on manipulation and recognition, especially for advanced abilities in complex environments, to empower robots to collaborate with human more efficiently in hazardous tasks like earthquake salvation and deep sea expedition. In addition to his technical contributions, he is a regional leading voice for inspiring young generations to better explore the world with STEM and to transform our culture by creating a global community where science and technology are celebrated.
+
+Yunzhe Li has been promoting *FIRST<sup>®</sup>* and *RoboMaster* in the community to ensure the on-target understanding of science and technology, including being interviewed by Jiefang Daily News and Shanghai Baoshan District Wechat Public Account, where I encouraged university students to apply theories into practice, and participating in the Minhang - Hong Kong Students Science and Technology Summer Camp, Regional TV show: Super Parents Club, Regional TV show: Young Edison, YEA (Young Entrepreneur Academy), where I advocated girls and boys to enjoy equal opportunities in STEM and robotics industry.
+
+Yunzhe Li is a recipient of the 1st Prize of Robot Combat Awards of Sentry Robot of RMUC 2023, Final Tournament, 3rd Place in 3V3 Match of RMUL 2023, Regional Competition(Shanghai), the Inspire Award in *FIRST<sup>®</sup>* Tech Challenge Shanghai American School Qualifier in 2018, several 2nd and 3rd Prizes in RMUL/RMUC in 2022 and 2023, and 3 Connect Awards in 2018 and 2019. He was a participant of *FIRST<sup>®</sup>* Detroit World Championship - Edison Division in 2018.
 {style="text-align: justify;"}
